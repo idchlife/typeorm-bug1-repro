@@ -1,0 +1,16 @@
+{
+  "name": "typeorm-bug1-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./dist/tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.10",
+    "typeorm": "^0.1.7",
+    "typescript": "^2.6.2"
+  }
+}
